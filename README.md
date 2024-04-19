@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @guttatus
-- 👀 I’m interested in Computer Architecture and Real Time Operating System
+- 👀 I’m interested in Computer Architecture and Real-Time Operating System
 - 📝 I regularly write articles on my [**Blog**](https://guttatus.github.io/)
 - 📫 You can reach me by **xingzhiang2020@gmail.com**
 
